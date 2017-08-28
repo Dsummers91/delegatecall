@@ -1,0 +1,42 @@
+{
+  "contract_name": "Library",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "number",
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "addNumber",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x6060604052341561000f57600080fd5b5b600080555b5b609f806100246000396000f300606060405263ffffffff60e060020a6000350416638381f58a8114602d578063ba65a52314604f575b600080fd5b3415603757600080fd5b603d6061565b60405190815260200160405180910390f35b3415605957600080fd5b605f6067565b005b60005481565b6000805460010190555b5600a165627a7a7230582050c4f17b59589e3b37cdc1cdfbce665e04e90c1ff714137a6b671b7b795567950029",
+  "networks": {
+    "1503853208092": {
+      "events": {},
+      "links": {},
+      "address": "0xc7d14170ec8c43d9e1bb0f65bee8c28920a06b42",
+      "updated_at": 1503857328187
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1503857328187
+}

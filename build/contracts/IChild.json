@@ -1,0 +1,17 @@
+{
+  "contract_name": "IChild",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "addNumber",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b606480601c6000396000f300606060405263ffffffff60e060020a600035041663ba65a52381146023575b600080fd5b3415602d57600080fd5b60336035565b005b5b5600a165627a7a72305820390e8bab3f2e4da204f9264ca2c015b9d5263adcd39fd431a4af34f14e96a0780029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1503854000244
+}
